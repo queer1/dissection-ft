@@ -13,7 +13,7 @@ The main tasks are:
 DFT requires that the system have perl, version 5.0004 or later.
 It's required several megabytes of storage for the output.
 
-In case you find errors, don't hesistate to contact me at wankestrah@gmail.com
+In case you find errors, don't hesitate to contact me at wankestrah@gmail.com
 
 THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
 WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
