@@ -2,18 +2,20 @@
 ** Dissection Forensic Toolkit (DFT) **
 ***************************************
 
-DFT is a collection of forensic tools oriented for Unix system.
+DFT is a collection of forensic tools by Juan C. Rodríguez Cruces oriented for Unix system. 
 
-The main tasks are:
+The considered main tasks are:
+
 * Data carving to recover images that are missing in a hard drive. 
 * Image viewer to check the recovered images.
+* Timeline created overlapping Unix logs.
 * Event viewer to check the timeline of a Unix system.
 * Exports a PDF file with the report of the analysis made in LaTeX.
 
-DFT requires that the system have perl, version 5.0004 or later.
+DFT requires that the system has perl, version 5.0004 or later.
 It's required several megabytes of storage for the output.
 
-In case you find errors, don't hesitate to contact me at wankestrah@gmail.com
+In case you find errors, don't hesitate to contact me at about@dissection-ft.com
 
 THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
 WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
